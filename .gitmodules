@@ -1,0 +1,3 @@
+[submodule "packages/useAudioPlayer"]
+	path = packages/useAudioPlayer
+	url = git@github.com:realzam/useAudioPlayer.git
